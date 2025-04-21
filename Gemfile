@@ -65,4 +65,4 @@ group :test do
 end
 
 # Le dejé esa version pq es la que me dió por defecto
-gem "bootstrap", "~> 5.3.3"
+gem "bootstrap", "~> 5.3.5"
